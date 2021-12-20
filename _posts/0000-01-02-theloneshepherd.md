@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The road less travled will get you where you've never been.
 Use the left arrow to go back!
